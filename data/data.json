@@ -2,13 +2,13 @@
   "published": [
     {
       "id": "1",
-      "cover": "",
+      "cover": "http://owiabz7km.bkt.clouddn.com/6.jpg",
       "title": "Gulp-Flexbox 响应式网站课程",
       "link": "/gulp-flex-res"
     },
     {
       "id": "2",
-      "cover": "",
+      "cover": "http://owiabz7km.bkt.clouddn.com/6.jpg",
       "title": "Meteor-React 小鸟课程",
       "link": "/meteor-react-bird"
     },
@@ -20,67 +20,67 @@
     },
     {
       "id": "4",
-      "cover": "",
+      "cover": "http://owiabz7km.bkt.clouddn.com/6.jpg",
       "title": "Webpack-React 鼹鼠",
       "link": "/webpack-react-mole"
     },
     {
       "id": "5",
-      "cover": "",
+      "cover": "http://owiabz7km.bkt.clouddn.com/6.jpg",
       "title": "Meteor-Express Ajax 方案对比",
       "link": "/meteor-express-ajax"
     },
     {
       "id": "6",
-      "cover": "",
+      "cover": "http://owiabz7km.bkt.clouddn.com/6.jpg",
       "title": "驾驭命令行怪兽",
       "link": "/ride-cli-monster"
     },
     {
       "id": "7",
-      "cover": "",
+      "cover": "http://owiabz7km.bkt.clouddn.com/6.jpg",
       "title": "跟 Peter 学 HTTP",
       "link": "/http-with-peter"
     },
     {
       "id": "8",
-      "cover": "",
+      "cover": "http://owiabz7km.bkt.clouddn.com/6.jpg",
       "title": "Flexbox 舞娘",
       "link": "/flexbox-dancer"
     },
     {
       "id": "9",
-      "cover": "",
+      "cover": "http://owiabz7km.bkt.clouddn.com/6.jpg",
       "title": "Nodejs 乐高",
       "link": "/nodejs-lego"
     },
     {
       "id": "10",
-      "cover": "",
+      "cover": "http://owiabz7km.bkt.clouddn.com/6.jpg",
       "title": "支付宝站内集成",
       "link": "/alipay"
     },
     {
       "id": "11",
-      "cover": "",
+      "cover": "http://owiabz7km.bkt.clouddn.com/6.jpg",
       "title": "Atom 爱上 JS",
       "link": "/atom-love-js"
     },
     {
       "id": "12",
-      "cover": "",
+      "cover": "http://owiabz7km.bkt.clouddn.com/6.jpg",
       "title": "React 婴儿",
       "link": "/react-baby"
     },
     {
       "id": "13",
-      "cover": "",
+      "cover": "http://owiabz7km.bkt.clouddn.com/6.jpg",
       "title": "Git 北京",
       "link": "/gitbeijing"
     },
     {
       "id": "14",
-      "cover": "",
+      "cover": "http://owiabz7km.bkt.clouddn.com/6.jpg",
       "title": "塔顶上的 Redux",
       "link": "/redux-tower"
     },
